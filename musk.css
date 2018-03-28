@@ -1,0 +1,33 @@
+        
+        
+h1
+{
+  color:Red;
+  text-align: center;
+}
+.leftbox{
+ float: left; 
+}
+#child h3{
+  text-align:center;
+  text-decoration: underline;}
+#child p{
+text-align:right;
+color:blue;
+  }
+  #ComFou>h3{
+     text-align:center;
+     text-decoration: underline;
+
+  }
+#Zip2 h3,#X h3,#spacex h3,#tesla h3,#hyperloop h3,#openai h3{
+  text-align:center;
+     text-decoration: underline;
+}
+#Zip2 p,#X p,#spacex p,#tesla p,#hyperloop p,#openai p{
+  text-align:right;
+  color:blue;
+}
+.box li{
+  color:red;
+}
